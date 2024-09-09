@@ -1,9 +1,3 @@
-
-
-
-
-
-
 contact = {}
 
 while True:
@@ -56,6 +50,3 @@ while True:
 
     else :
         print('잘못된 입력입니다.')
-
-
-
